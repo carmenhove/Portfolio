@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Seattle Postpartum Health Study](/sample_page)
 <img src="images/clipart_FB.jpg"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Seattle Postpartum Health Study](https://github.com/carmenhove/sphs)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
