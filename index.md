@@ -2,7 +2,7 @@
 
 ---
 
-### Estimating effects of breastfeeding on maternal immune function using Bayesian inference
+### Using multilevel Bayesian spline regression models to estimating effects of breastfeeding on maternal immune function
 
 Project description in two sentences. 
 
