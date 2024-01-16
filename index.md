@@ -2,7 +2,7 @@
 
 ---
 
-### Using Bayesian spline regression in R to estimate effects of breastfeeding on maternal immune function
+### Using Bayesian spline regression in R to estimate effects of lactation on maternal immune function
 
 Project description in two sentences. 
 
