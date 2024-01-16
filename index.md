@@ -10,5 +10,7 @@ Project description in two sentences.
 
 [View code on GitHub](https://github.com/carmenhove/sphs)
 
+[Read corresponding publication](https://github.com/carmenhove/sphs)
+
 ---
 
