@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/carmenhove/">LinkedIn</a> 
   <br><br>
-  <a href="https://www.github.com/carmenhove/">=GitHub</a> 
+  <a href="https://www.github.com/carmenhove/">GitHub</a> 
   <br><br>
   
 remote_theme: pages-themes/minimal
