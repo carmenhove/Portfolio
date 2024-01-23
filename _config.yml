@@ -5,11 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   I'm an applied research scientist using diverse datasets and advanced statistical modeling to investigate the causes and consequences of variation in immune function during different reproductive phases (e.g., pregnancy, menopause).
   <br><br>
   <a href="https://www.github.com/carmenhove/">Curriculum Vitae</a> 
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/carmenhove/">LinkedIn</a> 
-  <br><br>
-  <a href="https://www.github.com/carmenhove/">GitHub</a> 
-  <br><br>
+  <br>
+  <a href="https://www.github.com/carmenhove/">GitHub</a>
   
 remote_theme: pages-themes/minimal
 google_analytics: G-FKB9GWLFJ2 # your Google Analytics tracking ID here
