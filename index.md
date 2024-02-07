@@ -16,7 +16,7 @@ Project description in two sentences.
 
 ---
 
-### Using propensity score matching and generalized additive models (GAMs) to determine sex differences in immune function across the lifespan in two distinct populations
+### ML in Python, MIMIC III, IV, and eICU data
 
 Project description in two sentences. 
 
@@ -24,6 +24,6 @@ Project description in two sentences.
 
 [View code on GitHub](https://github.com/carmenhove/sphs)
 
-[Read corresponding publication](https://github.com/carmenhove/sphs)
+[Read write-up](https://github.com/carmenhove/sphs)
 
 ---
