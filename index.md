@@ -10,9 +10,19 @@ Project description in two sentences.
 
 [View code on GitHub](https://github.com/carmenhove/sphs)
 
-[Read corresponding publication](https://github.com/carmenhove/sphs)
+[Read peer-reviewed publication](https://github.com/carmenhove/sphs)
 
 ---
+
+### Using propensity score matching and generalized additive models (GAMs) to determine sex differences in immune function across the lifespan in two distinct populations
+
+Project description in two sentences. 
+
+<img src="images/clipart_FB.jpg?raw=true" />
+
+[View code on GitHub](https://github.com/carmenhove/sphs)
+
+[Read peer-reviewed publication](https://github.com/carmenhove/sphs)
 
 ---
 
