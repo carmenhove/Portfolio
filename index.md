@@ -10,7 +10,7 @@ Project description in two sentences.
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-black?logo=Tidyverse)](#)
 
-[View code on GitHub](https://github.com/carmenhove/sphs)
+[View project on GitHub](https://github.com/carmenhove/sphs)
 
 [Read peer-reviewed publication](https://github.com/carmenhove/sphs)
 
@@ -23,7 +23,7 @@ Project description in two sentences.
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-black?logo=Tidyverse)](#)
 
-[View code on GitHub](https://github.com/carmenhove/sphs)
+[View project on GitHub](https://github.com/carmenhove/sphs)
 
 [Read peer-reviewed publication](https://github.com/carmenhove/sphs)
 
@@ -36,7 +36,5 @@ Project description in two sentences.
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-black?logo=Tidyverse)](#) [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/GoogleBigQuery-black?logo=GoogleBigQuery)](#) [![](https://img.shields.io/badge/sklearn-black?logo=scikit-learn)](#)
 
-[View code on GitHub](https://github.com/carmenhove/sphs)
-
-[Read write-up](https://github.com/carmenhove/sphs)
+[Read Quatro write-up](https://github.com/carmenhove/sphs)
 
