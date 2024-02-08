@@ -8,7 +8,7 @@ Project description in two sentences.
 
 <img src="images/clipart_FB.jpg?raw=true" />
 
-R | R Markdown 
+[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-black?logo=Tidyverse)](#)
 
 [View code on GitHub](https://github.com/carmenhove/sphs)
 
@@ -21,6 +21,8 @@ Project description in two sentences.
 
 <img src="images/clipart_FB.jpg?raw=true" />
 
+[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-black?logo=Tidyverse)](#)
+
 [View code on GitHub](https://github.com/carmenhove/sphs)
 
 [Read peer-reviewed publication](https://github.com/carmenhove/sphs)
@@ -32,7 +34,7 @@ Project description in two sentences.
 
 <img src="images/clipart_FB.jpg?raw=true" />
 
-BigQuery | SQL | Python | R | Quatro 
+[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-black?logo=Tidyverse)](#) [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/GoogleBigQuery-black?logo=GoogleBigQuery)](#)
 
 [View code on GitHub](https://github.com/carmenhove/sphs)
 
