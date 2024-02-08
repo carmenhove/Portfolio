@@ -34,7 +34,7 @@ Project description in two sentences.
 
 <img src="images/clipart_FB.jpg?raw=true" />
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-black?logo=Tidyverse)](#) [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/GoogleBigQuery-black?logo=GoogleBigQuery)](#)
+[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-black?logo=Tidyverse)](#) [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/GoogleBigQuery-black?logo=GoogleBigQuery)](#) [![](https://img.shields.io/badge/sklearn-black?logo=scikit-learn)](#)
 
 [View code on GitHub](https://github.com/carmenhove/sphs)
 
