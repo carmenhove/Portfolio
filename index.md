@@ -8,11 +8,11 @@ Project description in two sentences.
 
 <img src="images/clipart_FB.jpg?raw=true" />
 
-[![](https://img.shields.io/badge/R-grey?logo=R)](#) [![](https://img.shields.io/badge/RStudio-grey?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-grey?logo=Tidyverse)](#) [![](https://img.shields.io/badge/brms-grey)](#) [![](https://img.shields.io/badge/RMarkdown-grey)](#) [![](https://img.shields.io/badge/GitHub-grey?logo=GitHub)](#)
-
 [View project on GitHub](https://github.com/carmenhove/sphs)
  <br>
 [Read peer-reviewed publication](https://github.com/carmenhove/sphs)
+
+[![](https://img.shields.io/badge/R-grey?logo=R)](#) [![](https://img.shields.io/badge/RStudio-grey?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-grey?logo=Tidyverse)](#) [![](https://img.shields.io/badge/brms-grey)](#) [![](https://img.shields.io/badge/RMarkdown-grey)](#) [![](https://img.shields.io/badge/GitHub-grey?logo=GitHub)](#)
 
 ---
 
@@ -22,11 +22,11 @@ Project description in two sentences.
 
 <img src="images/clipart_FB.jpg?raw=true" />
 
-[![](https://img.shields.io/badge/R-grey?logo=R)](#) [![](https://img.shields.io/badge/RStudio-grey?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-grey?logo=Tidyverse)](#) [![](https://img.shields.io/badge/mgcv-grey)](#) [![](https://img.shields.io/badge/RMarkdown-grey)](#) [![](https://img.shields.io/badge/GitHub-grey?logo=GitHub)](#)
-
 [View project on GitHub](https://github.com/carmenhove/sphs)
  <br>
 [Read peer-reviewed publication](https://github.com/carmenhove/sphs)
+
+[![](https://img.shields.io/badge/R-grey?logo=R)](#) [![](https://img.shields.io/badge/RStudio-grey?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-grey?logo=Tidyverse)](#) [![](https://img.shields.io/badge/mgcv-grey)](#) [![](https://img.shields.io/badge/RMarkdown-grey)](#) [![](https://img.shields.io/badge/GitHub-grey?logo=GitHub)](#)
 
 ---
 
@@ -36,7 +36,6 @@ Project description in two sentences.
 
 <img src="images/clipart_FB.jpg?raw=true" />
 
+[Read report on Quatro](https://github.com/carmenhove/sphs)
+
 [![](https://img.shields.io/badge/SQL-grey)](#) [![](https://img.shields.io/badge/R-grey?logo=R)](#) [![](https://img.shields.io/badge/Python-grey?logo=Python)](#) [![](https://img.shields.io/badge/GoogleBigQuery-grey?logo=GoogleBigQuery)](#) [![](https://img.shields.io/badge/sklearn-grey?logo=scikit-learn)](#) [![](https://img.shields.io/badge/Quatro-grey)](#) [![](https://img.shields.io/badge/GitHub-grey?logo=GitHub)](#)
-
-[Read Quatro write-up](https://github.com/carmenhove/sphs)
-
