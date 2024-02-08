@@ -8,6 +8,8 @@ Project description in two sentences.
 
 <img src="images/clipart_FB.jpg?raw=true" />
 
+R | R Markdown 
+
 [View code on GitHub](https://github.com/carmenhove/sphs)
 
 [Read peer-reviewed publication](https://github.com/carmenhove/sphs)
@@ -29,6 +31,8 @@ Project description in two sentences.
 Project description in two sentences. 
 
 <img src="images/clipart_FB.jpg?raw=true" />
+
+BigQuery | SQL | Python | R | Quatro 
 
 [View code on GitHub](https://github.com/carmenhove/sphs)
 
