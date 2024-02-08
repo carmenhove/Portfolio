@@ -11,7 +11,7 @@ Project description in two sentences.
 [![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/RStudio-blue?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-blue?logo=Tidyverse)](#) [![](https://img.shields.io/badge/brms-blue)](#) [![](https://img.shields.io/badge/RMarkdown-blue)](#) [![](https://img.shields.io/badge/GitHub-blue?logo=GitHub)](#)
 
 [View project on GitHub](https://github.com/carmenhove/sphs)
-
+ <br>
 [Read peer-reviewed publication](https://github.com/carmenhove/sphs)
 
 ---
@@ -25,7 +25,7 @@ Project description in two sentences.
 [![](https://img.shields.io/badge/R-blue?logo=R)](#) [![](https://img.shields.io/badge/RStudio-blue?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-blue?logo=Tidyverse)](#) [![](https://img.shields.io/badge/mgcv-blue)](#) [![](https://img.shields.io/badge/RMarkdown-blue)](#) [![](https://img.shields.io/badge/GitHub-blue?logo=GitHub)](#)
 
 [View project on GitHub](https://github.com/carmenhove/sphs)
-
+ <br>
 [Read peer-reviewed publication](https://github.com/carmenhove/sphs)
 
 ---
