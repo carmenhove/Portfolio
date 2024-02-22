@@ -24,7 +24,7 @@ Project description in two sentences.
 
 [View project on GitHub](https://github.com/carmenhove/sphs)
  <br>
-[Read peer-reviewed publication](https://github.com/carmenhove/sphs)
+[Read peer-reviewed publication](https://link.springer.com/article/10.1038/s41598-024-54963-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240222&utm_content=10.1038/s41598-024-54963-4)
 
 [![](https://img.shields.io/badge/R-lightgrey?logo=R)](#) [![](https://img.shields.io/badge/RStudio-lightgrey?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-lightgrey?logo=Tidyverse)](#) [![](https://img.shields.io/badge/mgcv-lightgrey)](#) [![](https://img.shields.io/badge/RMarkdown-lightgrey)](#) [![](https://img.shields.io/badge/GitHub-lightgrey?logo=GitHub)](#)
 
