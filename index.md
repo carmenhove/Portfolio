@@ -9,7 +9,7 @@ While the impact of breastfeeding behavior on infant health has been well-studie
 Publication prepared using R Markdown, code published on [Zenodo](https://doi.org/10.5281/ZENODO.10480687) and [GitHub](https://github.com/carmenhove/sphs). 
  <br>
   <br>
-<img src="images/scirep.png?raw=true" />
+<img src="images/clipart_FB.jpg?raw=true" />
  <br>
  
 [![](https://img.shields.io/badge/R-lightgrey?logo=R)](#) [![](https://img.shields.io/badge/RStudio-lightgrey?logo=RStudio)](#) [![](https://img.shields.io/badge/Tidyverse-lightgrey?logo=Tidyverse)](#) [![](https://img.shields.io/badge/brms-lightgrey)](#) [![](https://img.shields.io/badge/RMarkdown-lightgrey)](#) [![](https://img.shields.io/badge/GitHub-lightgrey?logo=GitHub)](#)
