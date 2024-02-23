@@ -18,7 +18,7 @@ Publication prepared using R Markdown, code published on [Zenodo](https://doi.or
 
 ### Using GAMs to compare sex differences in immune function in two distinct populations
 
-Research from industrialized societies like the USA show that women are less prone to infectious disease but suffer disproprotionately from autoimmune disease. Hormones (e.g., testosterone, estrogen) are large drivers of these sex differences in immune function. For this peer-reviewed paper, I used preexisting data from NHANES and the Tsimane Health and Life History Project, propensity score matching via KNN, and generalized additive models (GAMs) using the mcgv package in R to show that the degree of sex difference in immune function is heavily unfluenced by female reproductive status (e.g., pregnancy) and environment. 
+Research from industrialized societies like the USA show that women are less prone to infectious disease but suffer disproprotionately from autoimmune disease. Hormones (e.g., testosterone, estrogen) are large drivers of these sex differences in immune function. For this peer-reviewed paper, I used preexisting data from NHANES and the Tsimane Health and Life History Project, propensity score matching via KNN, and generalized additive models (GAMs) using the mcgv package in R to show that the degree of sex difference in immune function is heavily influenced by female reproductive status (e.g., pregnancy) and environment. 
 
 Publication prepared using R Markdown, code published on [Zenodo](https://doi.org/10.5281/ZENODO.10480687) and [GitHub](https://github.com/carmenhove/sphs). 
 
